@@ -15,26 +15,15 @@
   <img src="https://img.shields.io/badge/TEAMPRO[RAG--insure--bot%20—%20데이터%20전처리와%20기본%20모델을%20Django%20기반%20웹에서%20검증]-33FF33?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-
 ---
 
 # 📚 SKILL
 
-### Programming
+### WEB Programming (PHP 중심)
 
 <div>
-  <!-- <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=eclipse&logoColor=white"> -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-</div>
-
-### DBMS
-
-<div>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Classic%20ASP-008000?style=for-the-badge&logo=windows&logoColor=white">
 </div>
 
 ### WEB
@@ -48,13 +37,6 @@
   <img src="https://img.shields.io/badge/AJAX-FF6F00?style=for-the-badge&logo=javascript&logoColor=white">
 </div>
 
-### WEB Programming (PHP 중심)
-
-<div>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Classic%20ASP-008000?style=for-the-badge&logo=windows&logoColor=white">
-</div>
-
 ### WEB Framework
 
 <div>
@@ -64,6 +46,14 @@
   <img src="https://img.shields.io/badge/그누보드-0052CC?style=for-the-badge">
 </div>
 
+### DBMS
+
+<div>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+</div>
+
 ### Git & Collaboration
 
 <div>
@@ -71,4 +61,11 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
+### Programming
 
+<div>
+  <!-- <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=eclipse&logoColor=white"> -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+</div>
