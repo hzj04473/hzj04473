@@ -5,15 +5,15 @@
   <img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-### 1st PERSONAL PROJECT  
+### PROJECT  
 <a href="https://github.com/codingSsakAi/1stProject">
   <img src="https://img.shields.io/badge/PROJ[대한민국 외국인 입국자 수 및 목적별 예측 모델 개발]-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-### 2nd TEAM PROJECT  
+<!-- ### 2nd TEAM PROJECT  
 <a href="#">
   <img src="https://img.shields.io/badge/TEAMPRO[미정]-33FF33?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+</a>-->
 
 ---
 
