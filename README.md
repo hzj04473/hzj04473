@@ -45,6 +45,7 @@
 ### WEB Framework
 
 <div>
+  <img src="https://img.shields.io/badge/gnuboard-0052CC?style=for-the-badge">
   <img src="https://img.shields.io/badge/fastapi-FF0000?style=for-the-badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/django-FCC624?style=for-the-badge&logo=django&logoColor=black"> 
