@@ -12,7 +12,7 @@
 
 ### 2nd TEAM PROJECT  
 <a href="https://github.com/codingSsakAi/2stProject">
-  <img src="https://img.shields.io/badge/TEAMPRO[RAG-insure-bot — 데이터 전처리와 기본 모델을 Django 기반 웹에서 검증]-33FF33?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TEAMPRO[미점]-33FF33?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 ---
