@@ -38,7 +38,8 @@
 ### WEB programming
 
 <div> 
-  <img src="https://img.shields.io/badge/JSP-db46ca?style=for-the-badge&logo=eclipse&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/ASP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
 </div>
 
 ### WEB Framework
