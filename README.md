@@ -40,10 +40,10 @@
 ### WEB Framework
 
 <div>
+  <img src="https://img.shields.io/badge/그누보드-0052CC?style=for-the-badge">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/그누보드-0052CC?style=for-the-badge">
 </div>
 
 ### DBMS
