@@ -11,7 +11,7 @@
 </a>
 
 ### 2nd TEAM PROJECT  
-<a href="#">
+<a href="https://github.com/codingSsakAi/2stProject">
   <img src="https://img.shields.io/badge/TEAMPRO[미정]-33FF33?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
